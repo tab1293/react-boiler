@@ -8,4 +8,4 @@ class App extends React.Component {
     }
 }
 
-export default React;
+export default App;
